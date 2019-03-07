@@ -1,3 +1,11 @@
-Description
+Project 2: Cartoon Shader
 
-Cartoon Shader
+Description: 
+Cartoon shader can render objects in a cartoon style. No texture map or normal map needed. It's very easy to use.
+The shader is written by myself but not my original idea, as I just followed the guide from a book.
+
+Feature:
+- the objects are rendered in cartoon style by a shader I wrote
+- the camera can be controlled
+
+https://dgm6410.github.io/research-project-2-chenlifan250/demo/index
