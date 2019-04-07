@@ -5,7 +5,7 @@ Project 2
 
 This Shader will draw objects in a Cartoon style.
 
-![](https://github.com/dgm6410/research-project-3-chenlifan250/raw/master/cartoonScene.jpg)
+![](https://github.com/dgm6410/research-project-2-chenlifan250/raw/master/cartoonScene.jpg)
 
 -------------------------------------------------------------
 DEMO HERE:
